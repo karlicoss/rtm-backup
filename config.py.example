@@ -1,0 +1,6 @@
+from pathlib import Path
+
+# You can find your iCal backup URL here https://www.rememberthemilk.com/app/#settings/export
+# Don't expose it since it contains token!
+URL = None
+DIR = Path("<your_dir_goes_here>")
